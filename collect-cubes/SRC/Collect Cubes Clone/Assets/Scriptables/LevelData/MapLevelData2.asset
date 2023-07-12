@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1e3b7f9a3364a1b9723febe6c21a6df, type: 3}
+  m_Name: MapLevelData2
+  m_EditorClassIdentifier: 
+  <objectCount>k__BackingField: 120
+  <objectSize>k__BackingField: 0.2
+  <objectPrefab>k__BackingField: {fileID: 888334049023914934, guid: 1c64be3885051e345ac5c2486cf53cb1,
+    type: 3}
+  topLevelMap: {fileID: 2800000, guid: 16f63514f703e2745a73c40f6ae40c61, type: 3}
+  frontLevelMap: {fileID: 2800000, guid: 6d203fffc510c2f48bc626e218a82555, type: 3}
+  sideLevelMap: {fileID: 2800000, guid: 5a3d8c7a4d9dfe740947ea3e69c9c534, type: 3}
+  stages: []
