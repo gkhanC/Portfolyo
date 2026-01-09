@@ -9,7 +9,7 @@ Welcome to my portfolio repository. This repository showcases my journey as a ga
 **Genre:** 2D Precision Platformer / Runner  
 
 <a href="https://store.steampowered.com/app/4081480/Fuu">
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4081480/header.jpg" alt="Fuu Steam Header" width="100%">
+  <img src="https://github.com/gkhanC/Portfolyo/blob/master/Videos/fuu_1.png" alt="Fuu Steam Header" width="50%" style="max-width: 50%;">
 </a>
 
 **Description:**
