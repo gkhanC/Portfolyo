@@ -1,39 +1,56 @@
-# Portfolyo
+# Portfolio
 
-Welcome to my portfolio repository. This repository contains various projects and materials showcasing my work and skills. Below, you will find details about the contents of this repository.
+Welcome to my portfolio repository. This repository showcases my journey as a game developer, featuring my published Steam title, ongoing projects, and technical prototypes.
 
-## Contents
+## 🌟 Featured Project
 
-### 1. Videos
-The `Videos` folder contains videos of the simple games I am currently working on. These videos demonstrate the basic mechanics and progress of each game.
+### [Fuu](https://store.steampowered.com/app/4081480/Fuu)
+**Status:** Available on Steam
+**Genre:** 2D Precision Platformer / Runner  
 
-### 2. Games
-The `Games` folder includes two main projects:
+<a href="https://store.steampowered.com/app/4081480/Fuu">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4081480/header.jpg" alt="Fuu Steam Header" width="100%">
+</a>
 
-#### a. MultiplayerGame
-- **Description**: This project contains an older copy of the flameborn game.
-- **Game Type**: Online strategy game.
-- **Current Status**: For the latest updates, please refer to the original repository.
-- **Original Repository**: [Flameborn Game](https://github.com/gkhanC/flameborn-game)
-- **Details**:
-  - Flameborn is a multiplayer online strategy game where players engage in strategic battles.
-  - The project in this repository is an older version, and for the most recent updates and improvements, it is recommended to check the original repository linked above.
+**Description:**
+Fuu is a high-octane 2D platformer set in a dark, gothic universe governed by shadows. It rewards fast reflexes and flawless timing. Players control a mysterious character with glowing eyes, navigating through a trap-filled forest using advanced movement mechanics.
 
-#### b. HyperCasual/Collect Cubes
-- **Description**: This project is a clone of the game Collect Cubes.
-- **Game Type**: Hyper-casual game.
-- **Features**:
-  - **Level Generation**: Includes a level generation mechanism using 64x64 images.
-  - **Game Mechanics**: Replicates the mechanics of the original Collect Cubes game.
-- **Details**:
-  - The player controls a character that collects cubes scattered throughout the level.
-  - The levels are generated dynamically based on 64x64 images, allowing for a variety of layouts and challenges.
+**Key Features:**
+- **Advanced Movement System:** Fluidly combine double jumps, wall jumps, and precise dashes/slides.
+- **Logic-Based Puzzles:** Trigger-based puzzles interspersed between high-speed platforming sequences requiring quick logical thinking.
+- **Atmospheric World:** A handcrafted gothic world with a mysterious narrative backbone.
+- **Development Role:** Developed and published solely by me, managing the entire pipeline from coding to Steam distribution.
+
+[**👉 View on Steam Store**](https://store.steampowered.com/app/4081480/Fuu)
+
+---
+
+## 📂 Contents
+
+### 1. Games & Prototypes
+Below are other significant projects demonstrating various game development skills:
+
+#### a. MultiplayerGame (Flameborn)
+- **Description**: An older snapshot of the *Flameborn* project.
+- **Type**: Online Strategy Game.
+- **Technical Highlight**: Focuses on multiplayer networking and strategic battle mechanics.
+- **Note**: For the latest updates, please refer to the [Original Repository](https://github.com/gkhanC/flameborn-game).
+
+#### b. HyperCasual / Collect Cubes
+- **Description**: A clone of the popular game *Collect Cubes*.
+- **Type**: Hyper-casual.
+- **Technical Highlights**:
+  - **Dynamic Level Generation**: Utilizes 64x64 images to generate levels procedurally.
+  - **Mechanics**: Replicates core physics-based collection mechanics.
+
+### 2. Videos
+The `Videos` folder contains gameplay footage of the simple games and prototypes listed above, demonstrating basic mechanics and development progress.
 
 ### 3. Documents
-This repository also contains personal documents:
+Professional documentation regarding my career:
 - **CV**: My personal CV in PDF format.
-- **Portfolio**: A detailed portfolio document in PDF format showcasing my work, projects, and skills.
+- **Portfolio**: A detailed PDF document showcasing extended work and skills.
 
-## Contact
-If you have any questions or need further information, feel free to reach out to me.
-
+## 📬 Contact
+If you have any questions, collaboration offers, or need further information, feel free to reach out to me.
+📧 Email: [caygkhan@gmail.com](mailto:caygkhan@gmail.com)
